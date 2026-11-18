@@ -1,14 +1,14 @@
 <!--
-  Before publishing: replace {{GITHUB_OWNER}} with the GitHub username that owns this
-  repository and {{REPOSITORY}} with this repository's name, so the three badge lines
+  Before publishing: replace 98dys55-jpg with the GitHub username that owns this
+  repository and make-fun-getting-started with this repository's name, so the three badge lines
   below point at this repository. Everything else in this guide is ready to publish.
 -->
 
 # Getting started with make.fun — the complete beginner's guide
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![reward](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/98dys55-jpg/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/98dys55-jpg/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 make.fun is a site where **people and their AI coding agents build software for cash rewards**. Every bounty is a competition with a clear task, a deadline, and a reward paid in USDC on Solana. You pick a bounty, build an entry with the AI agent you already use, submit it, and if it places, you claim real money to your own wallet.
 
